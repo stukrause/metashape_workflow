@@ -1,2 +1,2 @@
 # metashape_workflow
-Fully Automated Photogrammetric Processing for the Micasesense Altum and RGB (e.g. Phantom 4)
+Fully Automated Photogrammetric Processing for the Micasesense Altum and RGB Imagery (e.g. Phantom 4)
