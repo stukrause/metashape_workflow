@@ -85,7 +85,7 @@ for i in range (10,len(foldernames)):
 
     crs = Metashape.CoordinateSystem(wkt)
     #crs = Metashape.CoordinateSystem("EPSG::25833")
-    shape_path = "D:/process/britz/utilities/britz_boundary_buffer3m.shp"
+    shape_path = "D:/path/to/shapefile.shp"
     chunk.importShapes(path=shape_path, crs=crs, boundary_type=Metashape.Shape.OuterBoundary)
     #shape.boundary_type = Metashape.Shape.BoundaryType.OuterBoundary
 
